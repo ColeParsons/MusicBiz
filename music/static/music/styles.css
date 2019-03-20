@@ -1,0 +1,28 @@
+body{
+    
+    background: white url("images/background.png");
+    
+}
+
+ul{
+    
+    color : green;
+    
+}
+
+li{
+    
+    
+    color : orange;
+    size : 20px;
+    
+    
+}
+
+a{
+    
+    size: 20px;
+    
+    
+    
+}

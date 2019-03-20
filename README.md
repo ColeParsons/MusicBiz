@@ -1,11 +1,8 @@
 
 An album ratings website, currently still in development process. 
 
-#HELP ADD TO THE ARTIST DATABASE:
-
-
+HELP ADD TO THE ARTIST DATABASE:
 ## Starting from the Terminal
-
 
 1) Run Django:
 

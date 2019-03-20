@@ -1,5 +1,5 @@
 
-An album ratings website, currently still in development process. 
+An album ratings website, currently in the beginning stages. 
 
 HELP ADD TO THE ARTIST DATABASE:
 ## Starting from the Terminal
